@@ -1,4 +1,4 @@
-# My published and archived works
+# My Published and Archived Works
 4\.  Khai Hanh Tang, Minh Pham, and Chan Nam Ngo. _**RAMenPaSTA: Parallelizable Scalable Transparent Arguments of Knowledge for RAM Programs**_. Archive. ([ePrint](https://eprint.iacr.org/2024/336)).
 
 3\.  San Ling, Khoa Nguyen, Duong Hieu Phan, Khai Hanh Tang, Huaxiong Wang, and Yanhong Xu. _**Fully Dynamic Attribute-Based Signatures for Circuits from Codes**_. In PKC 2024. ([ePrint](https://eprint.iacr.org/2024/022), [proceeding](https://link.springer.com/chapter/10.1007/978-3-031-57718-5_2)).
