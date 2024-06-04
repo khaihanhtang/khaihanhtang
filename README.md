@@ -1,7 +1,7 @@
 # News
 - On 4 June 2024, my grant application _**End-to-End Publicly Verifiable Secure 2PC**_ to The Ethereum Foundation's Ecosystem Support Program (EF ESP) has been approved and countersigned.
 
-- On 14 May 2024, my patent application, with Hubert Andre LE VAN GONG, Shanshan Hua and Siew Hoon Lim from PayPal Inc, titled _Threshold multi-party computation with must-have member_ has been granted ([Google Patents](https://patents.google.com/patent/US11985254B2/en)).
+- On 14 May 2024, my patent application, with Hubert Andre LE VAN GONG, Shanshan Hua and Siew Hoon Lim from PayPal Inc, titled _**Threshold multi-party computation with must-have member**_ has been granted ([Google Patents](https://patents.google.com/patent/US11985254B2/en)).
 
 # My Published and Archived Works
 6\. Hubert Andre LE VAN GONG, Khai Hanh Tang, Shanshan Hua, and Siew Hoon Lim. _**Threshold multi-party computation with must-have member**_. US Patent US11985254B2 ([Google Patents](https://patents.google.com/patent/US11985254B2/en)).
