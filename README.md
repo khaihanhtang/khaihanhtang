@@ -1,6 +1,6 @@
-My name is Khai Hanh Tang, currently a research fellow in Nanyang Technological University, Singapore.
+My name is Khai Hanh Tang. I am currently a research fellow in Cryptography at Nanyang Technological University, Singapore.
 
-My research interests include: zero-knowledge proofs (zkSNARKs, code-based ZKP, ...) and privacy-preserving signatures.
+My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, ...) and privacy-preserving signatures.
 
 # News
 - On 4 June 2024, my grant application _**End-to-End Publicly Verifiable Secure 2PC**_ to The Ethereum Foundation's Ecosystem Support Program (EF ESP) has been approved and countersigned.
