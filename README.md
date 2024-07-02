@@ -8,6 +8,8 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 - On 14 May 2024, my patent application, with Hubert Andre LE VAN GONG, Shanshan Hua and Siew Hoon Lim from PayPal Inc., titled _**Threshold multi-party computation with must-have member**_ was granted ([Google Patents](https://patents.google.com/patent/US11985254B2/en)).
 
 # My Published and Archived Works
+7\. San Ling, Khai Hanh Tang, Van Khu Vu, Huaxiong Wang, and Yingfei Yan. _**Succinct Non-Subsequence Arguments**_. In SCN 2024 (to appear).
+
 6\. Hubert Andre LE VAN GONG, Khai Hanh Tang, Shanshan Hua, and Siew Hoon Lim. _**Threshold multi-party computation with must-have member**_. US Patent US11985254B2. ([Google Patents](https://patents.google.com/patent/US11985254B2/en))
 
 5\.  Khai Hanh Tang, Minh Pham, and Chan Nam Ngo. _**RAMenPaSTA: Parallelizable Scalable Transparent Arguments of Knowledge for RAM Programs**_. Archive. ([ePrint](https://eprint.iacr.org/2024/336))
