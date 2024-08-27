@@ -3,6 +3,8 @@ My name is Khai Hanh Tang. I am currently a research fellow in Cryptography at N
 My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, ...) and privacy-preserving signatures.
 
 # News
+- On 26 August 2024, I got 2 rejections from AsiaCrypt 2024. One of these 2 rejections is early rejection, in July 2024.
+
 - On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at SCN 2024, to be organized in Amalfi, Italy.
 
 - On 4 June 2024, my grant application _**End-to-End Publicly Verifiable Secure 2PC**_ to The Ethereum Foundation's Ecosystem Support Program (EF ESP) was approved and countersigned.
