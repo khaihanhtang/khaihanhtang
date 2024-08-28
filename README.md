@@ -3,13 +3,15 @@ My name is Khai Hanh Tang. I am currently a research fellow in Cryptography at N
 My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, ...) and privacy-preserving signatures.
 
 # News
-- On 26 August 2024, I got 2 rejections from AsiaCrypt 2024. One of these 2 rejections is early rejection, in July 2024.
+- On 26 August 2024, I got 2 rejections from AsiaCrypt 2024. One of these 2 rejections is early rejection, in July 2024. ==> AsiaCrypt 2024 :x::x:
 
-- On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at SCN 2024, to be organized in Amalfi, Italy.
+- On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at SCN 2024, to be organized in Amalfi, Italy. ==> SCN 2024 :white_check_mark:
 
 - On 4 June 2024, my grant application _**End-to-End Publicly Verifiable Secure 2PC**_ to The Ethereum Foundation's Ecosystem Support Program (EF ESP) was approved and countersigned.
 
 - On 14 May 2024, my patent application, with Hubert Andre LE VAN GONG, Shanshan Hua, and Siew Hoon Lim from PayPal Inc., titled _**Threshold multi-party computation with must-have member**_ was granted ([Google Patents](https://patents.google.com/patent/US11985254B2/en)).
+
+- From my post-doctoral research career in the end of 2022 till 12 May 2024: AsiaCrypt 2023 :x:, Eurocrypt 2024 :x:, PKC 2024 :x::white_check_mark:, AsiaCCS 2024 :x:, and Crypto 2024 :x::x:.
 
 # My Published and Archived Works
 7\. San Ling, Khai Hanh Tang, Khu Vu, Huaxiong Wang, and Yingfei Yan. _**Succinct Non-Subsequence Arguments**_. In SCN 2024. ([ePrint](https://eprint.iacr.org/2024/1264), proceeding to appear)
