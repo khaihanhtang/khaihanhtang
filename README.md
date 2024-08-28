@@ -3,7 +3,7 @@ My name is Khai Hanh Tang. I am currently a research fellow in Cryptography at N
 My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, ...) and privacy-preserving signatures.
 
 # News
-- On 26 August 2024, I got 2 rejections from AsiaCrypt 2024. One of these 2 rejections is early rejection, in July 2024. ==> AsiaCrypt 2024 :x::x:
+- On 26 August 2024, I got 2 rejections from Asiacrypt 2024. One of these 2 rejections is early rejection, in July 2024. ==> Asiacrypt 2024 :x::x:
 
 - On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at SCN 2024, to be organized in Amalfi, Italy. ==> SCN 2024 :white_check_mark:
 
@@ -11,7 +11,7 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 
 - On 14 May 2024, my patent application, with Hubert Andre LE VAN GONG, Shanshan Hua, and Siew Hoon Lim from PayPal Inc., titled _**Threshold multi-party computation with must-have member**_ was granted ([Google Patents](https://patents.google.com/patent/US11985254B2/en)).
 
-- From my post-doctoral research career in the end of 2022 till 12 May 2024: AsiaCrypt 2023 :x:, Eurocrypt 2024 :x:, PKC 2024 :x::white_check_mark:, AsiaCCS 2024 :x:, and Crypto 2024 :x::x:.
+- My post-doctoral research career, from the end of 2022 till 12 May 2024, failed and achieved as follows: Asiacrypt 2023 :x:, Eurocrypt 2024 :x:, PKC 2024 :x::white_check_mark:, AsiaCCS 2024 :x:, and Crypto 2024 :x::x:.
 
 # My Published and Archived Works
 7\. San Ling, Khai Hanh Tang, Khu Vu, Huaxiong Wang, and Yingfei Yan. _**Succinct Non-Subsequence Arguments**_. In SCN 2024. ([ePrint](https://eprint.iacr.org/2024/1264), proceeding to appear)
@@ -26,4 +26,4 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 
 2\. San Ling, Khoa Nguyen, Duong Hieu Phan, Hanh Tang, and Huaxiong Wang. _**Zero-Knowledge Proofs for Committed Symmetric Boolean Functions**_. In PQCrypto 2021. ([proceeding](https://link.springer.com/chapter/10.1007/978-3-030-81293-5_18))
 
-1\. Khoa Nguyen, Hanh Tang, Huaxiong Wang, and Neng Zeng. _**New Code-Based Privacy-Preserving Cryptographic Constructions**_. In AsiaCrypt 2019. ([ePrint](https://eprint.iacr.org/2019/513), [proceeding](https://link.springer.com/chapter/10.1007/978-3-030-34621-8_2))
+1\. Khoa Nguyen, Hanh Tang, Huaxiong Wang, and Neng Zeng. _**New Code-Based Privacy-Preserving Cryptographic Constructions**_. In Asiacrypt 2019. ([ePrint](https://eprint.iacr.org/2019/513), [proceeding](https://link.springer.com/chapter/10.1007/978-3-030-34621-8_2))
