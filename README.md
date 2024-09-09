@@ -14,7 +14,7 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 - My post-doctoral research career, from the end of 2022 till 12 May 2024, failed and achieved as follows: Asiacrypt 2023 :x:, Eurocrypt 2024 :x:, PKC 2024 :x::white_check_mark:, AsiaCCS 2024 :x:, and Crypto 2024 :x::x:.
 
 # My Published and Archived Works
-7\. San Ling, Khai Hanh Tang, Khu Vu, Huaxiong Wang, and Yingfei Yan. _**Succinct Non-Subsequence Arguments**_. In SCN 2024. ([ePrint](https://eprint.iacr.org/2024/1264), proceeding to appear)
+7\. San Ling, Khai Hanh Tang, Khu Vu, Huaxiong Wang, and Yingfei Yan. _**Succinct Non-Subsequence Arguments**_. In SCN 2024. ([ePrint](https://eprint.iacr.org/2024/1264), [proceeding](https://link.springer.com/chapter/10.1007/978-3-031-71070-4_2))
 
 6\. Hubert Andre LE VAN GONG, Khai Hanh Tang, Shanshan Hua, and Siew Hoon Lim. _**Threshold multi-party computation with must-have member**_. US Patent US11985254B2. ([Google Patents](https://patents.google.com/patent/US11985254B2/en))
 
