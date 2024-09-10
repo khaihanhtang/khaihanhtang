@@ -2,6 +2,8 @@ My name is Khai Hanh Tang. I am currently a research fellow in Cryptography at N
 
 My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, ...) and privacy-preserving signatures.
 
+Countries I have ever been to are 🇻🇳🇹🇭🇵🇭🇸🇬🇲🇾🇯🇵🇮🇩🇦🇺🇫🇷(transit)🇮🇹🇩🇪.
+
 # News
 - On 26 August 2024, I got 2 rejections from Asiacrypt 2024. One of these 2 rejections is early rejection, in July 2024. ==> Asiacrypt 2024 :x::x:
 
