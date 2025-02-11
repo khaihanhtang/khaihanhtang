@@ -5,7 +5,7 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷(transit) 🇮🇹 🇻🇦 🇩🇪.
 
 # News
-- In February 2024, I got 2 rejections from PKC 2025. ==> PKC 2025 :x::x:
+- In February 2025, I got 2 rejections from PKC 2025. ==> PKC 2025 :x::x:
 
 - In October 2024, I got a rejection from Eurocrypt 2025. ==> Eurocrypt 2025 :x:
 
