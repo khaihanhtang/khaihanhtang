@@ -5,6 +5,10 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷(transit) 🇮🇹 🇻🇦 🇩🇪.
 
 # News
+- In February 2024, I got 2 rejections from PKC 2025. ==> PKC 2025 :x:
+
+- In October 2024, I got a rejection from Eurocrypt 2025. ==> Eurocrypt 2025 :x::x:
+
 - On 26 August 2024, I got 2 rejections from Asiacrypt 2024. One of these 2 rejections is early rejection, in July 2024. ==> Asiacrypt 2024 :x::x:
 
 - On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at SCN 2024, to be organized in Amalfi, Italy. ==> SCN 2024 :white_check_mark:
