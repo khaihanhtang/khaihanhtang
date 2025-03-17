@@ -5,6 +5,8 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷(transit) 🇮🇹 🇻🇦 🇩🇪.
 
 # News
+- On 17 March 2025, I got an acceptance, whose title is _**Everlasting Fully Dynamic Group Signatures**_ from ACNS 2025. ==> ACNS 2025 :white_check_mark:
+
 - In February 2025, I got 2 rejections from PKC 2025. ==> PKC 2025 :x::x:
 
 - In October 2024, I got a rejection from Eurocrypt 2025. ==> Eurocrypt 2025 :x:
