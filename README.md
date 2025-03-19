@@ -5,13 +5,13 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷(transit) 🇮🇹 🇻🇦 🇩🇪.
 
 # News
-- On 17 March 2025, I got an acceptance, whose title is _**Everlasting Fully Dynamic Group Signatures**_ from ACNS 2025. ==> ACNS 2025 :white_check_mark:
+- On 17 March 2025, I got an acceptance, whose title is _**Everlasting Fully Dynamic Group Signatures**_, from ACNS 2025. ==> ACNS 2025 :white_check_mark:
 
 - In February 2025, I got 2 rejections from PKC 2025. ==> PKC 2025 :x::x:
 
 - In October 2024, I got a rejection from Eurocrypt 2025. ==> Eurocrypt 2025 :x:
 
-- On 26 August 2024, I got 2 rejections from Asiacrypt 2024. One of these 2 rejections is early rejection, in July 2024. ==> Asiacrypt 2024 :x::x:
+- On 26 August 2024, I got 2 rejections from Asiacrypt 2024. One of these 2 rejections is an early rejection, in July 2024. ==> Asiacrypt 2024 :x::x:
 
 - On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at SCN 2024, to be organized in Amalfi, Italy. ==> SCN 2024 :white_check_mark:
 
@@ -22,6 +22,8 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 - My post-doctoral research career, from the end of 2022 till 12 May 2024, failed and achieved as follows: Asiacrypt 2023 :x:, Eurocrypt 2024 :x:, PKC 2024 :x::white_check_mark:, AsiaCCS 2024 :x:, and Crypto 2024 :x::x:.
 
 # My Published and Archived Works
+8\. Yimeng He, San Ling, Khai Hanh Tang, and Huaxiong Wang. _**Everlasting Fully Dynamic Group Signatures**_. In ACNS 2025. (to appear)
+
 7\. San Ling, Khai Hanh Tang, Khu Vu, Huaxiong Wang, and Yingfei Yan. _**Succinct Non-Subsequence Arguments**_. In SCN 2024. ([ePrint](https://eprint.iacr.org/2024/1264), [proceeding](https://link.springer.com/chapter/10.1007/978-3-031-71070-4_2))
 
 6\. Hubert Andre LE VAN GONG, Khai Hanh Tang, Shanshan Hua, and Siew Hoon Lim. _**Threshold multi-party computation with must-have member**_. US Patent US11985254B2. ([Google Patents](https://patents.google.com/patent/US11985254B2/en))
