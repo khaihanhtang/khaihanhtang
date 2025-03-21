@@ -1,4 +1,6 @@
-My name is Khai Hanh Tang. I am currently a research fellow in Cryptography at Nanyang Technological University, Singapore.
+My name is Khai Hanh Tang. I am currently a research fellow in Cryptography at Nanyang Technological University, Singapore (from December 2022 till now).
+
+My PhD candidature is from January 2018 till July 2022 at Nanyang Technological University, Singapore, with the thesis title _**New and Improved Zero-Knowledge Argument Systems for Code-Based Cryptography**_.  
 
 My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, ...) and privacy-preserving signatures.
 
@@ -26,11 +28,11 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 
 7\. San Ling, Khai Hanh Tang, Khu Vu, Huaxiong Wang, and Yingfei Yan. _**Succinct Non-Subsequence Arguments**_. In SCN 2024. ([ePrint](https://eprint.iacr.org/2024/1264), [proceeding](https://link.springer.com/chapter/10.1007/978-3-031-71070-4_2))
 
-6\. Hubert Andre LE VAN GONG, Khai Hanh Tang, Shanshan Hua, and Siew Hoon Lim. _**Threshold multi-party computation with must-have member**_. US Patent US11985254B2. ([Google Patents](https://patents.google.com/patent/US11985254B2/en))
+6\. Hubert Andre LE VAN GONG, Khai Hanh Tang, Shanshan Hua, and Siew Hoon Lim. (Current Assignee: PayPal Inc) _**Threshold multi-party computation with must-have member**_. US Patent US11985254B2. ([Google Patents](https://patents.google.com/patent/US11985254B2/en))
 
 5\.  Khai Hanh Tang, Minh Pham, and Chan Nam Ngo. _**RAMenPaSTA: Parallelizable Scalable Transparent Arguments of Knowledge for RAM Programs**_. Archive. ([ePrint](https://eprint.iacr.org/2024/336))
 
-4\. Hubert Andre LE VAN GONG, Khai Hanh Tang, and Shanshan Hua. _**Systems and methods for configuring a networked system to perform threshold multi-party computation**_. US Patent US11909866B2. ([Google Patents](https://patents.google.com/patent/US11909866B2))
+4\. Hubert Andre LE VAN GONG, Khai Hanh Tang, and Shanshan Hua. (Current Assignee: PayPal Inc) _**Systems and methods for configuring a networked system to perform threshold multi-party computation**_. US Patent US11909866B2. ([Google Patents](https://patents.google.com/patent/US11909866B2))
 
 3\.  San Ling, Khoa Nguyen, Duong Hieu Phan, Khai Hanh Tang, Huaxiong Wang, and Yanhong Xu. _**Fully Dynamic Attribute-Based Signatures for Circuits from Codes**_. In PKC 2024. ([ePrint](https://eprint.iacr.org/2024/022), [proceeding](https://link.springer.com/chapter/10.1007/978-3-031-57718-5_2))
 
