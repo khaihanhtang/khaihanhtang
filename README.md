@@ -13,6 +13,8 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 
 - In October 2024, I got a rejection from Eurocrypt 2025. ==> Eurocrypt 2025 :x:
 
+- In October 2024, I got 2 medals from 2 badminton tournaments (hosted by VCS and Homies badminton groups in Singapore): 1 silver medal :2nd_place_medal: from VCS and 1 gold medal :medal_sports: (series B for mid-beginner players) from Homies.
+
 - On 26 August 2024, I got 2 rejections from Asiacrypt 2024. One of these 2 rejections is an early rejection, in July 2024. ==> Asiacrypt 2024 :x::x:
 
 - On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at SCN 2024, to be organized in Amalfi, Italy. ==> SCN 2024 :white_check_mark:
