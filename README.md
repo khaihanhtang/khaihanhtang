@@ -13,7 +13,7 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 
 - In February 2025, I got 2 rejections from PKC 2025. ==> PKC 2025 :x::x:
 
-- In October 2024, I got a rejection from Eurocrypt 2025. ==> Eurocrypt 2025 :x:
+- In December 2024, I got a rejection from Eurocrypt 2025. ==> Eurocrypt 2025 :x:
 
 - In October 2024, I got 2 medals from 2 badminton tournaments (hosted by VCS and Homies badminton groups in Singapore): 1 silver medal :2nd_place_medal: from VCS and 1 gold medal :medal_sports: (series B for mid-beginner players) from Homies.
 
