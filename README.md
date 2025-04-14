@@ -7,7 +7,7 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷(transit) 🇮🇹 🇻🇦 🇩🇪.
 
 # News
-- On 8 April 2025, I got 2 early rejections from CRYPTO 2025. ==> CRYPTO 2025 :x::x:
+- On 8 April 2025, I got 2 early rejections from CRYPTO 2025. ==> Crypto 2025 :x::x:
 
 - On 29 March 2025, I got a rejection (rejected round 2) from ACM CCS 2025. Earlier, I also got a rejection (rejected round 1) from this conference. ==> CCS 2025 :x::x:
 
