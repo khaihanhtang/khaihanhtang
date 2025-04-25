@@ -32,7 +32,7 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 # My Published and Archived Works
 8\. Yimeng He, San Ling, Khai Hanh Tang, and Huaxiong Wang. _**Everlasting Fully Dynamic Group Signatures**_. In ACNS 2025. ([ePrint](https://ia.cr/2025/627))
 
-7\. San Ling, Khai Hanh Tang, Khu Vu, Huaxiong Wang, and Yingfei Yan. _**Succinct Non-Subsequence Arguments**_. In SCN 2024. ([ePrint](https://ia.cr/2024/1264), [proceeding](https://link.springer.com/chapter/10.1007/978-3-031-71070-4_2))
+7\. San Ling, Khai Hanh Tang, Khu Vu, Huaxiong Wang, and Yingfei Yan. _**Succinct Non-Subsequence Arguments**_. In SCN 2024. ([ePrint](https://ia.cr/2024/1264), [proceedings](https://link.springer.com/chapter/10.1007/978-3-031-71070-4_2))
 
 6\. Hubert Andre LE VAN GONG, Khai Hanh Tang, Shanshan Hua, and Siew Hoon Lim. (Current Assignee: PayPal Inc) _**Threshold multi-party computation with must-have member**_. US Patent US11985254B2. ([Google Patents](https://patents.google.com/patent/US11985254B2/en))
 
@@ -40,8 +40,8 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 
 4\. Hubert Andre LE VAN GONG, Khai Hanh Tang, and Shanshan Hua. (Current Assignee: PayPal Inc) _**Systems and methods for configuring a networked system to perform threshold multi-party computation**_. US Patent US11909866B2. ([Google Patents](https://patents.google.com/patent/US11909866B2))
 
-3\.  San Ling, Khoa Nguyen, Duong Hieu Phan, Khai Hanh Tang, Huaxiong Wang, and Yanhong Xu. _**Fully Dynamic Attribute-Based Signatures for Circuits from Codes**_. In PKC 2024. ([ePrint](https://ia.cr/2024/022), [proceeding](https://link.springer.com/chapter/10.1007/978-3-031-57718-5_2))
+3\.  San Ling, Khoa Nguyen, Duong Hieu Phan, Khai Hanh Tang, Huaxiong Wang, and Yanhong Xu. _**Fully Dynamic Attribute-Based Signatures for Circuits from Codes**_. In PKC 2024. ([ePrint](https://ia.cr/2024/022), [proceedings](https://link.springer.com/chapter/10.1007/978-3-031-57718-5_2))
 
-2\. San Ling, Khoa Nguyen, Duong Hieu Phan, Hanh Tang, and Huaxiong Wang. _**Zero-Knowledge Proofs for Committed Symmetric Boolean Functions**_. In PQCrypto 2021. ([proceeding](https://link.springer.com/chapter/10.1007/978-3-030-81293-5_18))
+2\. San Ling, Khoa Nguyen, Duong Hieu Phan, Hanh Tang, and Huaxiong Wang. _**Zero-Knowledge Proofs for Committed Symmetric Boolean Functions**_. In PQCrypto 2021. ([proceedings](https://link.springer.com/chapter/10.1007/978-3-030-81293-5_18))
 
-1\. Khoa Nguyen, Hanh Tang, Huaxiong Wang, and Neng Zeng. _**New Code-Based Privacy-Preserving Cryptographic Constructions**_. In Asiacrypt 2019. ([ePrint](https://ia.cr/2019/513), [proceeding](https://link.springer.com/chapter/10.1007/978-3-030-34621-8_2))
+1\. Khoa Nguyen, Hanh Tang, Huaxiong Wang, and Neng Zeng. _**New Code-Based Privacy-Preserving Cryptographic Constructions**_. In Asiacrypt 2019. ([ePrint](https://ia.cr/2019/513), [proceedings](https://link.springer.com/chapter/10.1007/978-3-030-34621-8_2))
