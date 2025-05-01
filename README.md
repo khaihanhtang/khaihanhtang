@@ -9,6 +9,8 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 # News
 - On 30 April 2025, I finished all the work with respect Grant FY24-1414-A from Ethereum Support Program ([report](https://eprint.iacr.org/2025/772), [PoC source code](https://github.com/Crazy-Cryptographic-Buddies/pa-gc-rs)). Happy Vietnam's Reunification Day 🇻🇳!
 
+- On 27 April 2025, I lost all matches at the badminton tournament PinoySG Ultramix 2025 (mixed doubles). :x:
+
 - On 8 April 2025, I got 2 early rejections from CRYPTO 2025. ==> Crypto 2025 :x::x:
 
 - On 29 March 2025, I got a rejection (rejected round 2) from ACM CCS 2025. Earlier, I also got a rejection (rejected round 1) from this conference. ==> CCS 2025 :x::x:
