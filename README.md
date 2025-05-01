@@ -7,6 +7,8 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷(transit) 🇮🇹 🇻🇦 🇩🇪.
 
 # News
+- On 30 April 2025, I finished all the work with respect Grant FY24-1414-A from Ethereum Support Program ([report](https://eprint.iacr.org/2025/772), [PoC source code](https://github.com/Crazy-Cryptographic-Buddies/pa-gc-rs)). Happy Vietnam's Reunification Day 🇻🇳!
+
 - On 8 April 2025, I got 2 early rejections from CRYPTO 2025. ==> Crypto 2025 :x::x:
 
 - On 29 March 2025, I got a rejection (rejected round 2) from ACM CCS 2025. Earlier, I also got a rejection (rejected round 1) from this conference. ==> CCS 2025 :x::x:
@@ -30,6 +32,8 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 - My post-doctoral research career, from the end of 2022 till 12 May 2024, failed and achieved as follows: Asiacrypt 2023 :x:, Eurocrypt 2024 :x:, PKC 2024 :x::white_check_mark:, AsiaCCS 2024 :x:, and Crypto 2024 :x::x:.
 
 # My Published and Archived Works
+9\. San Ling, Chan Nam Ngo, Khai Hanh Tang, and Huaxiong Wang. _**Publicly Auditable Garbled Circuit**_. Archive. ([ePrint](https://eprint.iacr.org/2025/772), [PoC source code](https://github.com/Crazy-Cryptographic-Buddies/pa-gc-rs))
+
 8\. Yimeng He, San Ling, Khai Hanh Tang, and Huaxiong Wang. _**Everlasting Fully Dynamic Group Signatures**_. In ACNS 2025. ([ePrint](https://ia.cr/2025/627))
 
 7\. San Ling, Khai Hanh Tang, Khu Vu, Huaxiong Wang, and Yingfei Yan. _**Succinct Non-Subsequence Arguments**_. In SCN 2024. ([ePrint](https://ia.cr/2024/1264), [proceedings](https://link.springer.com/chapter/10.1007/978-3-031-71070-4_2))
